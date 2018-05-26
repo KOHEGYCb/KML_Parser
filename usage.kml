@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCOPE type="usage">
+    <unit id="0">
+        <title lang="ru">Экономика</title>
+    </unit>
+    <unit id="1">
+        <title lang="ru">Биология</title>
+    </unit>
+    <unit id="2">
+        <title lang="ru">Физика</title>
+    </unit>
+</SCOPE>
